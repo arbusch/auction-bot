@@ -1,4 +1,4 @@
-# Ad Bidding Bot (Playtech Internship Assignment)
+# Ad Bidding Bot
 
 ## Overview
 
